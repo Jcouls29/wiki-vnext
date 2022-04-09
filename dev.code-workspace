@@ -11,6 +11,9 @@
     {
       "name": "dev",
       "path": "dev"
+    },
+    {
+      "path": "vue3"
     }
   ],
   "settings": {
